@@ -1,0 +1,22 @@
+{
+  "name": "mav-mfe",
+  "version": "0.0.1",
+  "description": "default template for maverick mfe",
+  "main": "App.module.ts",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ofrnsb/template-mfe.git"
+  },
+  "keywords": [
+    "mav-mfe"
+  ],
+  "author": "b",
+  "license": "UNLICENSED",
+  "bugs": {
+    "url": "https://github.com/ofrnsb/template-mfe/issues"
+  },
+  "homepage": "https://github.com/ofrnsb/template-mfe#readme"
+}
